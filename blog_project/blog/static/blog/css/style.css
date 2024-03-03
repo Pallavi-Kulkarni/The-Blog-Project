@@ -1,0 +1,70 @@
+
+body {
+  background-color: #e0e6e6;
+}
+
+.container {
+  margin-top: 50px;
+  
+}
+
+.jumbotron {
+  background-color: #783b3b;
+  padding: 2rem;
+  margin-bottom: 2rem;
+  border-radius: 0.3rem;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+
+.display-6 {
+  font-size: 1.25rem;
+}
+
+.font-weight-bold {
+  font-weight: bold;
+}
+
+.my-5 {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+.jumbo-color {
+  background-color: #aeb6be;
+}
+
+.btn-custom {
+  background-color: #28a745;
+  border-color: #28a745;
+  color: #dfafaf;
+}
+
+.btn-custom:hover {
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #103602;
+  
+}
+
+.navbar-nav .nav-link {
+  color: #220e0e;
+  
+}
+
+.navbar-nav .nav-link:hover {
+  color: #ccc;
+}
+
+footer {
+  margin-top: 50px;
+  padding: 20px 0;
+  background-color: #5b6878;
+  color: #2b2222;
+  text-align: center;
+}
+
